@@ -1,0 +1,9 @@
+.env
+images/generados/*
+images/referencia/*
+!images/*/.gitkeep
+models/*
+!models/.gitkeep
+node_modules/
+dist/
+__pycache__/
